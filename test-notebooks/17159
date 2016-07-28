@@ -1,0 +1,186 @@
+{
+  "paragraphs": [
+    {
+      "text": "var x \u003d 1\nx \u003d x + 1\n",
+      "dateUpdated": "Jul 14, 2016 5:00:02 PM",
+      "config": {
+        "colWidth": 12.0,
+        "graph": {
+          "mode": "table",
+          "height": 300.0,
+          "optionOpen": false,
+          "keys": [],
+          "values": [],
+          "groups": [],
+          "scatter": {}
+        },
+        "enabled": true,
+        "tableHide": false,
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "jobName": "paragraph_1468450433392_-2095582837",
+      "id": "20160713-225353_431714949",
+      "result": {
+        "code": "SUCCESS",
+        "type": "TEXT",
+        "msg": "x: Int \u003d 1\nx: Int \u003d 2\n"
+      },
+      "dateCreated": "Jul 13, 2016 10:53:53 PM",
+      "dateStarted": "Jul 14, 2016 5:00:02 PM",
+      "dateFinished": "Jul 14, 2016 5:00:03 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "x\n",
+      "dateUpdated": "Jul 14, 2016 5:00:02 PM",
+      "config": {
+        "colWidth": 12.0,
+        "graph": {
+          "mode": "table",
+          "height": 300.0,
+          "optionOpen": false,
+          "keys": [],
+          "values": [],
+          "groups": [],
+          "scatter": {}
+        },
+        "enabled": true,
+        "editorMode": "ace/mode/scala",
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "jobName": "paragraph_1468514687221_1776431506",
+      "id": "20160714-164447_1273196956",
+      "result": {
+        "code": "SUCCESS",
+        "type": "TEXT",
+        "msg": "res23: Int \u003d 2\n"
+      },
+      "dateCreated": "Jul 14, 2016 4:44:47 PM",
+      "dateStarted": "Jul 14, 2016 5:00:02 PM",
+      "dateFinished": "Jul 14, 2016 5:00:03 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "x \u003d x + 1",
+      "dateUpdated": "Jul 14, 2016 5:00:02 PM",
+      "config": {
+        "colWidth": 12.0,
+        "graph": {
+          "mode": "table",
+          "height": 300.0,
+          "optionOpen": false,
+          "keys": [],
+          "values": [],
+          "groups": [],
+          "scatter": {}
+        },
+        "enabled": true,
+        "editorMode": "ace/mode/scala",
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "jobName": "paragraph_1468514692740_783794668",
+      "id": "20160714-164452_1805233338",
+      "result": {
+        "code": "SUCCESS",
+        "type": "TEXT",
+        "msg": "x: Int \u003d 3\n"
+      },
+      "dateCreated": "Jul 14, 2016 4:44:52 PM",
+      "dateStarted": "Jul 14, 2016 5:00:03 PM",
+      "dateFinished": "Jul 14, 2016 5:00:04 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "sc.version\n",
+      "dateUpdated": "Jul 14, 2016 5:00:02 PM",
+      "config": {
+        "colWidth": 12.0,
+        "graph": {
+          "mode": "table",
+          "height": 300.0,
+          "optionOpen": false,
+          "keys": [],
+          "values": [],
+          "groups": [],
+          "scatter": {}
+        },
+        "enabled": true,
+        "tableHide": false,
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "jobName": "paragraph_1468514802471_-1603851382",
+      "id": "20160714-164642_978637570",
+      "result": {
+        "code": "SUCCESS",
+        "type": "TEXT",
+        "msg": "res26: String \u003d 1.6.1\n"
+      },
+      "dateCreated": "Jul 14, 2016 4:46:42 PM",
+      "dateStarted": "Jul 14, 2016 5:00:04 PM",
+      "dateFinished": "Jul 14, 2016 5:00:04 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "dateUpdated": "Jul 14, 2016 5:00:02 PM",
+      "config": {
+        "colWidth": 12.0,
+        "graph": {
+          "mode": "table",
+          "height": 300.0,
+          "optionOpen": false,
+          "keys": [],
+          "values": [],
+          "groups": [],
+          "scatter": {}
+        },
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "jobName": "paragraph_1468515373980_-1306399967",
+      "id": "20160714-165613_2037622815",
+      "result": {
+        "code": "SUCCESS",
+        "type": "TEXT",
+        "msg": ""
+      },
+      "dateCreated": "Jul 14, 2016 4:56:13 PM",
+      "dateStarted": "Jul 14, 2016 5:00:04 PM",
+      "dateFinished": "Jul 14, 2016 5:00:04 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "test",
+  "id": "N5FRP3CFDS1468450203",
+  "angularObjects": {
+    "2BMSFB4SY59601464022123731": [],
+    "2BNQJMU1U59601464022123718": [],
+    "2BMA5WSXU59601464022123630": []
+  },
+  "config": {},
+  "info": {},
+  "source": "FCN"
+}
