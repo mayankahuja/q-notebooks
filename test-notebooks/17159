@@ -1,8 +1,8 @@
 {
   "paragraphs": [
     {
-      "text": "var x \u003d 1\nx \u003d x + 1\n",
-      "dateUpdated": "Jul 14, 2016 5:00:02 PM",
+      "text": "var x \u003d 2\nx \u003d x + 1\n",
+      "dateUpdated": "Jul 28, 2016 8:15:12 AM",
       "config": {
         "colWidth": 12.0,
         "graph": {
@@ -27,11 +27,11 @@
       "result": {
         "code": "SUCCESS",
         "type": "TEXT",
-        "msg": "x: Int \u003d 1\nx: Int \u003d 2\n"
+        "msg": "x: Int \u003d 2\nx: Int \u003d 3\n"
       },
       "dateCreated": "Jul 13, 2016 10:53:53 PM",
-      "dateStarted": "Jul 14, 2016 5:00:02 PM",
-      "dateFinished": "Jul 14, 2016 5:00:03 PM",
+      "dateStarted": "Jul 28, 2016 8:15:12 AM",
+      "dateFinished": "Jul 28, 2016 8:16:28 AM",
       "status": "FINISHED",
       "progressUpdateIntervalMs": 500
     },
